@@ -6,6 +6,7 @@
 
 [![介绍更新](https://img.shields.io/badge/更新-自我介绍-blue?style=flat&labelColor=444444&logoSize=auto)](#更多内容) 
 [![支持渠道](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&labelColor=444444&logoSize=auto)](https://afdian.com/a/lumingtpl)
+[![支持渠道](https://img.shields.io/badge/打赏-微信-46ec91?style=flat&labelColor=444444&logoSize=auto)](#赞助)
 
 </div>
 
@@ -29,5 +30,8 @@
 
 # 更多内容
 以后想到什么再说吧，先这样？
-# 可以到爱发电里支持一下我口牙！
+# 赞助
+## 爱发电
 [发电链接](https://afdian.com/a/lumingtpl) 投喂一点小零食也是可以的（小声
+## 打赏（推荐）
+![打赏！](image/抢劫！/mm_reward_qrcode_1765505356975.png) 
