@@ -7,6 +7,7 @@
 [![介绍更新](https://img.shields.io/badge/更新-自我介绍-blue?style=flat&labelColor=444444&logoSize=auto)](#更多内容) 
 [![支持渠道](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&labelColor=444444&logoSize=auto)](https://afdian.com/a/lumingtpl)
 [![支持渠道](https://img.shields.io/badge/打赏-微信-46ec91?style=flat&labelColor=444444&logoSize=auto)](#赞助)
+[![小网站](https://img.shields.io/badge/prompt-市场-8643e9?style=flat&labelColor=444444&logoSize=auto)](https://jiupamiao.asia/)
 
 </div>
 
