@@ -1,7 +1,7 @@
 <div align="center">
 <img style="width:70%" src="https://count.getloli.com/@nuomicici?name=nuomicici&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&color=e06060&pause=1000&center=true&vCenter=true&width=800&lines=这是一个极其没有营养的自我介绍！;是只什么都不会的糯米茨（"/>
+![1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&color=e06060&pause=1000&center=true&vCenter=true&width=800&lines=这是一个极其没有营养的自我介绍！;是只什么都不会的糯米茨（)
 
 
 [![介绍更新](https://img.shields.io/badge/更新-自我介绍-blue?style=flat&labelColor=444444&logoSize=auto)](#更多内容) 
