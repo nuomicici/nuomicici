@@ -8,7 +8,7 @@
 [![支持渠道](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&labelColor=444444&logoSize=auto)](https://afdian.com/a/lumingtpl)
 [![支持渠道](https://img.shields.io/badge/打赏-微信-46ec91?style=flat&labelColor=444444&logoSize=auto)](#赞助)
 [![小网站](https://img.shields.io/badge/prompt-市场-8643e9?style=flat&labelColor=444444&logoSize=auto)](https://jiupamiao.asia/)
-![联系方式](https://img.shields.io/badge/小窝-QQ-e07070?style=flat&labelColor=444444&logoSize=auto)
+[![联系方式](https://img.shields.io/badge/小窝-QQ-e07070?style=flat&labelColor=444444&logoSize=auto)](https://qun.qq.com/universal-share/share?ac=1&authKey=Gbq9jqktnrL2ilHKZ%2Bg9YxpZZLmaWrsNzLcCa44y%2BKGpYkq%2FeVPGUWNsjN3IhaAG&busi_data=eyJncm91cENvZGUiOiI5NjQ0NDcxMzciLCJ0b2tlbiI6IndEUTlBb1BIcGlYM1l4SFRjRG5rSFc0SlFGbi8xcmpKWStobUVIWTREbXo0aFNUMThvTjd1UXZ2aTI3WmxCL0MiLCJ1aW4iOiIxMDkwMDA3ODM2In0%3D&data=ptKBoyFWmcZz_dJF3E0b9hiG3YlulEDXOMZ1g_aNUB7jGWr-jcTz_Lb47zXgUc4pyqZSVnWsqZkGN8sV7COTTg&svctype=4&tempid=h5_group_info)
 </div>
 
 # 关于我
@@ -16,14 +16,18 @@
 ## 个人属性
 - 职业：学生
 - 属地：异世界
-- 惯用语言：js，pyhon，别的都不会了我是小白www
+- 惯用语言：pyhon，别的都不会了我是小白www
 - MBTI：infp说是？
+- ~~其实本人只会vibe~~
+- 
 ## 一般介绍
 - 简单来说，是一只什么都不会的糯米茨，只是写点小代码来玩玩。
 - 目前在写[Astrbot](https://astrbot.app/)框架的小插件，
 - 也在写一些随缘更新的小说，以及翻译一些日文轻小说，至于是哪些，我还没想好要不要说（
+- 
 ## 喜欢的东西
 喜欢玩游戏，听歌（一般是纯音乐和日语歌），写小说看小说，追番之类的  
+
 ## 讨厌的？
  社交，自己，和自己的生活。总之我算是个很负能量的人……（？
 ## 想要的？
